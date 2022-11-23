@@ -1,2 +1,2 @@
-# gas-smart-sensor
-School Project : A smart gas sensor using nano particles
+# Smart Gas Sensor
+A smart gas sensor using nano particles
